@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Year</title>
+    <link href="{% static 'newyear/styles.css' %}" rel="stylesheet">
+</head>
+<body>
+    {% if newyear %}
+        <h1>Happy New year.</h1>
+    {% else %}
+        <h1>Happy Day.</h1>
+    {% endif %}
+    <a href="{% url 'landing:index'%}">Landing</a>
+    <a href="{% url 'tasks:index'%}">Tasks</a>
+</body>
+</html>

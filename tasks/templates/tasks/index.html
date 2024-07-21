@@ -1,0 +1,14 @@
+{% extends 'tasks/layout.html' %}
+{% block body %}
+    <h1>Home Tasks</h1>
+    <a href="{% url 'landing:index' %}">Landing</a>
+    <a href="{% url 'newyear:index'%}">New Year</a>
+    <ul>
+        {% for task in tasks %}
+        <li>{{ task }}</li>
+        {% empty %}
+        <li>No Task.</li>
+        {% endfor %}
+    </ul>
+    <span><a href="{% url 'tasks:add' %}">Add Tasks</a></span>
+{% endblock %}
