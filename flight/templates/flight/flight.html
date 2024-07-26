@@ -12,7 +12,7 @@
         {% for passenger in passengers %}
         <li>{{passenger}}</li>
         {%empty%}
-        <li>No passengers.</li>
+        <li>No passengers recorded.</li>
         {% endfor %}
     </ul>
     <a href="{% url 'flight:index' %}">Back to Flight</a>
