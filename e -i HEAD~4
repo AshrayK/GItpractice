@@ -1,0 +1,48 @@
+[33mcommit a949a65c43acda2ff4f8d4b10149a4b6df779847[m[33m ([m[1;36mHEAD -> [m[1;32msubtree2[m[33m, [m[1;31morigin/subtree2[m[33m)[m
+Author: AshrayK <ashraykhosin@gmail.com>
+Date:   Fri Jul 26 14:21:06 2024 +0545
+
+    Flight in my account
+
+[33mcommit 8178bd80dc905bfa78c2b11264f913143e8edf95[m[33m ([m[1;31morigin/subtree1[m[33m, [m[1;32msubtree1[m[33m)[m
+Author: AshrayK <ashraykhosin@gmail.com>
+Date:   Fri Jul 26 14:08:32 2024 +0545
+
+    FLight
+
+[33mcommit 54bba8442125414c0a0dd2f45fadfbcd6811d9dd[m
+Author: shashankhood <shashankshrestha@outlook.com>
+Date:   Fri Jul 26 11:45:09 2024 +0545
+
+    Creating new branch
+
+[33mcommit db7b58cce49ead62b933bf5837454ba332ba9533[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: shashankhood <shashankshrestha@outlook.com>
+Date:   Fri Jul 26 10:48:47 2024 +0545
+
+    admin commit where FLight and Airport added
+
+[33mcommit 97d00b0900fe8cad92eee792a5195bad3fc7a2f6[m
+Merge: 8b837d5 71adfed
+Author: AshrayK <ashraykhosin@gmail.com>
+Date:   Wed Jul 24 16:34:00 2024 +0530
+
+    Merge branch 'main' of https://github.com/AshrayK/GItpractice
+
+[33mcommit 8b837d566887bed71bd7b1f593b456342d7d91ce[m
+Author: AshrayK <ashraykhosin@gmail.com>
+Date:   Wed Jul 24 16:30:10 2024 +0530
+
+    Flight commit
+
+[33mcommit 71adfedc87a4cbe08c80d28ac6dd7c9b0eb88e30[m
+Author: Ashray Khosin <92355033+AshrayK@users.noreply.github.com>
+Date:   Sun Jul 21 15:17:22 2024 +0530
+
+    README.md
+
+[33mcommit 8cf661671eaed82fb34d238c6a7b8712591591ad[m
+Author: AshrayK <ashraykhosin@gmail.com>
+Date:   Sun Jul 21 14:09:18 2024 +0530
+
+    First commit
