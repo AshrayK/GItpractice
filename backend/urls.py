@@ -22,5 +22,6 @@ urlpatterns = [
     path('landing/',include('landing.urls')),
     path('newyear/',include('newyear.urls')),
     path('tasks/',include('tasks.urls')),
-    path('flight/',include('flight.urls')),
+    path('flights/',include('flights.urls')),
+    path('users/',include('users.urls')),
 ]

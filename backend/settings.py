@@ -41,8 +41,17 @@ INSTALLED_APPS = [
     'landing',
     'newyear',
     'tasks',
-    'flight',
+    'flights',
+    'users',
+
 ]
+
+# Authentication backends
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.ModelBackend',  # Default backend
+    'users.backends.UsernameOrEmailBackend',  # Custom backend
+]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
